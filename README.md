@@ -1,0 +1,1 @@
+This is my first project with odin projects lessons. This is a part of Git and Github learning practices lessons and repositories. This is the information file.
